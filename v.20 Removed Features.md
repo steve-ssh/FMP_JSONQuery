@@ -1,0 +1,36 @@
+## Features Removed in JSONQuery v2.0 
+
+Three features that appeared in the previous version of JSONQuery which are not supported in JSONQuery v2.0:
+
+**1. IS_MIN_VALUE** (Examples: 186-190)
+      
+
+**2. IS_MAX_VALUE** (Examples: 191-195)
+      
+
+**3. Secondary/Nested Map via the TRANSFORM Map Property** (Examples: 138-196)
+
+All other features from the previous version are supported in JSONQuery v2.0.
+
+The example records for these examples still exist in the demo file for v.2.0, and have been updated to document the removal.
+
+In the case of the **IS_MIN_VALUE** and **IS_MAX_VALUE** features, the updated example records include sample workaround calculations which can achieve the same effect, albeit with a couple of extra lines of code.
+
+### For Reference:
+
+- The previously released version of JSONQuery listed its version as:
+  ```
+    Version: EXP 0.1.232
+    Date: 20211130_0000
+  ```
+
+- Version 2.0 of JSONQuery lists its version as:
+  ```
+  Version: 2.0 (20240912_0100)
+  ```
+
+### Updating The Custom Function to v2.0:
+
+Updating an existing installation of the previous version of JSONQuery to v2.0 should be a simple as copying and pasting the v2.0 calculation source into the existing JSONQuery custom function's calculation editor, and saving the change.  The source for JSONQuery v2.0 continues to be very close to, but still within, the allowed 30K character size limit for FileMaker Pro calculations.
+
+  
