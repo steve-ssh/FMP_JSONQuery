@@ -1,6 +1,5 @@
 # FMP_JSONQuery
 ---
- 
 ### General Info:
 
 - **Function:**	JSONQuery
@@ -8,6 +7,8 @@
 - **Requires:**	v18 or later of FileMaker Pro / FileMaker Server
 - **External Dependencies:** None
 - **Current Version:**		2.0 (20240906_1710)
+- **Demo File**: [CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip)
+- **Updating From Previous Version:**
 
 - **Input Parameters**:
 	- **Json:**			_JSON_
