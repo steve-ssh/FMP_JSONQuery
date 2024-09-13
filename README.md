@@ -8,7 +8,7 @@
 - **External Dependencies:** None
 - **Current Version:**		2.0 (20240906_1710)
 - **Demo File**: [CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip)
-- **Updating From Previous Version:** [v2.0 Removed Features.md](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/v.20%20Removed%20Features.md)
+- **Updating From Previous Version:** [v2.0 Removed Features.md](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/v2.0%20Removed%20Features.md)
 
 - **Input Parameters**:
 	- **Json:**			_JSON_
