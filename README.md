@@ -7,7 +7,7 @@
 - **Requires:**	v18 or later of FileMaker Pro / FileMaker Server
 - **External Dependencies:** None
 - **Current Version:**		2.1.0 (20251022_2300)
-- **Demo File**: [CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip)
+- **Demo File**: [CF_JSONQuery_v2-1-0_20251022_2300.fmp12.zip](https://github.com/steve-ssh/FMP_JSONQuery/blob/f11104f32a4b1f0b2ad84dc0292c16aba41d09d2/CF_JSONQuery_v2-1-0_20251022_2300.fmp12.zip)
 
 - **Input Parameters**:
 	- **Json:**			_JSON_
