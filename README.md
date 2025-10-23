@@ -6,9 +6,8 @@
 - **Purpose:**		Filters and/or harvests data from a JSON object/array of child elements.
 - **Requires:**	v18 or later of FileMaker Pro / FileMaker Server
 - **External Dependencies:** None
-- **Current Version:**		2.0 (20240906_1710)
+- **Current Version:**		2.1.0 (20251022_2300)
 - **Demo File**: [CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/CF_JSONQuery_v2_PUBLIC_RELEASE_20240912_2340.fmp12.zip)
-- **Updating From Previous Version:** [v2.0 Removed Features.md](https://github.com/steve-ssh/FMP_JSONQuery/blob/main/v2.0%20Removed%20Features.md)
 
 - **Input Parameters**:
 	- **Json:**			_JSON_
@@ -142,10 +141,10 @@
 	MAP: [
 	   {
 	      SOURCE: 'path',
-		 OUTPUT: 'path',
-		 DATA_TYPE: see below ,
-		 DEFAULT: '',
-		 DELETE: boolean
+	      OUTPUT: 'path',
+	      DATA_TYPE: see below ,
+	      DEFAULT: '',
+	      DELETE: boolean
 	   }
 	]
   }
