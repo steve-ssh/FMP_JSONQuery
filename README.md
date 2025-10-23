@@ -6,7 +6,7 @@
 - **Purpose:**		Filters and/or harvests data from a JSON object/array of child elements.
 - **Requires:**	v18 or later of FileMaker Pro / FileMaker Server
 - **External Dependencies:** None
-- **Current Version:**		2.1.0 (20251022_2300)
+- **Current Version:**		2.1.0 (20250321_2315)
 - **Demo File**: [CF_JSONQuery_v2-1-0_20251022_2300.fmp12.zip](https://github.com/steve-ssh/FMP_JSONQuery/blob/f11104f32a4b1f0b2ad84dc0292c16aba41d09d2/CF_JSONQuery_v2-1-0_20251022_2300.fmp12.zip)
 
 - **Input Parameters**:
